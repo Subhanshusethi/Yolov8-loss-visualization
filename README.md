@@ -1,5 +1,4 @@
----
-```markdown
+
 # 📦 Bounding Box Regression Losses – From Scratch
 
 This repository contains a complete training pipeline to analyze and compare different **bounding box regression loss functions** in the context of object detection. The primary focus is on understanding how loss functions influence training dynamics when regressing perturbed YOLO-format bounding boxes back to their ground truth counterparts.
